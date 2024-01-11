@@ -1,5 +1,7 @@
 # TypeScript
 
+<img src="https://github.com/ghbouzrbay/alx-backend-javascript/blob/master/0x04-TypeScript/typescript.png">
+
 
 ## Resources
 ### Read or watch:
